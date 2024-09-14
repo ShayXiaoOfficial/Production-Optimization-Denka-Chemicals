@@ -1,1 +1,1 @@
-# Production-Optimization-Denka-Chemicals
+This project utilizes the Python-based Gurobi optimization package to develop a production planning model for Denka Chemicals. The model addresses multiple production constraints and successfully maximizes overall profit through strategic resource allocation and decision-making.
